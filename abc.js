@@ -1,5 +1,5 @@
-// test number 1
-//function Foo(who) {
+// test number 2
+// klgjlkdfgjlkdfjklhgfhjkl
 
 function Foo(who) {
     this.me = who;
