@@ -1,3 +1,4 @@
+// test number 1
 ﻿function Foo(who) {
     this.me = who;
     this.greeting = "hello, may name is " + this.me;
